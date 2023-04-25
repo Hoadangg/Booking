@@ -1,0 +1,39 @@
+.highlight-container li span,
+.schedule-container li {
+    color         : black;
+    font-size     : 1vw;
+    font-weight   : 500;
+    padding-bottom: 5px;
+    font-family   : 'Noto Serif Devanagari', serif;
+
+
+}
+
+li i {
+    width: 2vw;
+
+
+}
+
+.ri-star-smile-fill {
+    width: 2vw;
+}
+
+
+.highlightImg {
+    width: 2vw;
+}
+
+.scheduleDay {
+    font-size       : 1.25vw;
+    font-weight     : 600;
+    display         : flex;
+    align-items     : center;
+    gap             : 5px;
+    background-color: rgb(25, 76, 143);
+    width           : max-content;
+    color           : #fff;
+    font-family     : 'Noto Serif Devanagari', serif;
+    margin-bottom   : 5px;
+    padding: 4px 5px 0px  5px;
+}

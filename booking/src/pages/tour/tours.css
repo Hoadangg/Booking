@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@300;400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alkatra:wght@400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@300;400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alkatra:wght@400;500;600&family=Bree+Serif&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@300;400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alkatra:wght@400;500;600&family=Bree+Serif&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@300;400;500;600;700&family=Noto+Serif:ital,wght@0,700;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+
+
+
+
+
+.tours {
+    font-family: 'Noto Serif Devanagari', serif;
+}
+
+.toursPhoto img {
+    width : 29vw;
+    height: 17vw;
+}
+
+.toursPhoto {
+    width: 32vw;
+}
+
+.tours-container {
+    width : 80vw;
+    margin: 0 auto;
+}
+
+.toursTitle h2 {
+    color        : #0a2ea3;
+    font-size    : 2vw;
+    font-weight  : 700;
+    font-family  : 'Noto Serif Devanagari', serif;
+    margin-bottom: -15px;
+}
+
+.toursDescription h6 {
+    font-size  : 1vw;
+    color      : black;
+    font-weight: 400;
+    font-family: 'Noto Serif Devanagari', serif;
+
+}
+
+.toursDescription span {
+    background-color: rgb(230 182 0);
+    border-radius   : 15px;
+    padding         : 5px;
+    font-size       : 1vw;
+    font-weight     : 500;
+    font-family     : 'Alkatra', cursive;
+    transition      : .3s;
+}
+
+.toursDescription span:hover {
+    background-color: #fff;
+}
+
+
+.subTitle {
+    text-align : center;
+    font-size  : 1.5vw;
+    font-weight: 600;
+    font-family: 'Noto Serif Devanagari', serif;
+    width      :9vw;
+
+
+}
+.subTitle-container::before {
+    width   : 9vw !important;
+    position: relative  ;
+    top     : 46%;
+}
+
+.subTitle-container::before,
+.subTitle-container::after {
+    display         : block;
+    height          : 17px;
+    border-bottom: 1px solid #0c0a2980;
+    content         : ' ';
+}
+.subTitle-container{
+    display: flex;
+}
+.subTitle-container::after {
+    width   : 30vw;
+    position: relative  ;
+    top     : 46%;
+    right   : 0;
+
+}
+
+.subTitle-img {
+    width: 3vw;
+}
+
+.toursPhoto-item {
+    gap    : 7vw;
+    width  : max-content;
+    border : dashed 1px;
+    padding: 10px;
+    width  : 29vw;
+}
+
+.tourDestination {}
+
+.toursPhoto .tourDeparture-img {
+    width : 1.5vw;
+    height: 1.5vw;
+}
+
+.tourDeparture h5 {
+    font-size  : 1.25vw;
+    font-weight: 500;
+    color      : black;
+    font-family: 'Noto Serif Devanagari', serif;
+
+}
+
+.d-flex.mb-0 {
+    font-weight: 600;
+    color      : rgb(230 182 0);
+    font-size  : 1.25vw;
+    font-family: 'Noto Serif Devanagari', serif;
+}
+
+.tourPrice {
+    width        : 29vw;
+    margin-bottom: 20px;
+
+}
+
+.tourInclude-img {
+    width: 2vw;
+}
+
+.tourInclude-item {
+    display    : flex;
+    align-items: baseline;
+    font-size  : .9vw;
+    font-weight: 500;
+    gap        : .7rem;
+    font-family: 'Noto Serif Devanagari', serif;
+
+}
+
+.tourIncludes h6 {
+    font-size  : 1vw;
+    font-weight: 600;
+    color      : #0a2ea3;
+    font-family: 'Noto Serif Devanagari', serif;
+    font-style : italic;
+}
+
+.tourIncludes ul {
+    border              : dashed 1px;
+    width               : 29vw;
+    padding-inline-start: unset;
+    padding             : 5px;
+}
+
+.tourSchedule-title h6 {
+    font-size     : 1vw;
+    color         : #0a2ea3;
+    font-weight   : 500;
+    font-style    : italic;
+    padding-bottom: 10px;
+    font-family   : 'Noto Serif Devanagari', serif;
+
+}
+
+.tourBtn-book {
+    font-size       : 1.25vw;
+    font-weight     : 500;
+    padding         : 5px;
+    background-color: rgb(230 182 0);
+    color           : #fff;
+    border-radius   : 20px;
+    margin-left     : 10px;
+    box-shadow      : 3px 3px 0px 0px #212529;
+    font-family     : 'Bree Serif', serif;
+    transition      : .3s;
+
+
+}
+
+.tourBtn-book:hover {
+    background-color: #0a2ea3;
+}
+.slick-slide>div {
+    padding: 10px;
+}

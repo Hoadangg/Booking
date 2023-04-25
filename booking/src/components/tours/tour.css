@@ -1,0 +1,363 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Dancing+Script:wght@500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Dancing+Script:wght@500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.tourContainer {
+    width: 70vw;
+}
+
+.tourTitle {
+    margin-left: -2.5vw;
+    width      : 45vw;
+    display    : flex;
+    align-items: center;
+}
+
+.tourTitle span {
+    font-size    : 2vw;
+    font-family  : 'Righteous', cursive;
+    color        : rgb(134 7 15);
+    border-bottom: dashed 4px rgb(225, 233, 0);
+    margin-left  : -60px;
+    margin-top   : -16px;
+
+}
+
+.tourTitle span .tourText {
+    color      : #030389;
+    margin-left: 5px;
+    border-bottom: unset;
+}
+
+.tourTitle img {
+    width     : 11vw;
+    transition: .3s;
+}
+
+.tour:hover .tourTitle img {
+    transform: scale(1.3);
+    z-index  : -1;
+}
+
+.tourDes {
+    font-size    : 1.2vw;
+    font-weight  : 400;
+    color        : black;
+    margin-left  : 5vw;
+    font-family  : 'Righteous', cursive;
+    margin-top   : -2vw;
+    margin-bottom: 2vh;
+}
+
+.tourBox {
+    background-color: #030389;
+    height          : 53vh;
+    border-radius   : 0 0 15px 15px;
+    background      : linear-gradient(0deg, rgb(230 230 227) 0%, rgb(136 162 94) 15%, rgba(255, 255, 255, 1) 100%);
+}
+
+.tourBox img {
+    width        : 21.5vw;
+    height       : 15vw;
+    border-radius: 15px 15px 0 0;
+    margin       : 0 auto;
+    transition   : .3s;
+}
+
+.tourBox img:hover {
+    transform: scale(1.1);
+}
+
+
+.content {
+    padding         : 1vw;
+    width           : 19vw;
+    margin          : 0 auto;
+    background-color: white;
+    border-radius   : 15px 15px;
+    margin-top      : -30px;
+    z-index         : 999;
+    position        : relative;
+
+
+}
+
+.title {
+    height: 5vh;
+}
+
+.title h2 {
+    font-size: 1.25vw;
+    color    : black;
+
+
+}
+
+.address {
+    display    : flex;
+    gap        : .5vw;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.address:hover span {
+    transform: scale(1.2);
+}
+
+.address img {
+    width : 2vw;
+    height: 2vw;
+    margin: unset;
+}
+
+.address span {
+    font-size  : 1.25vw;
+    font-weight: 600;
+    color      : black;
+    transition : .3s;
+}
+
+.reward {
+    display   : flex;
+    margin-top: 10px;
+
+    gap        : 1vw;
+    align-items: center;
+}
+
+.tourBox .reward img {
+    width : 2.75vw;
+    height: 2.75vw;
+    margin: unset;
+
+}
+
+.mark {
+    display         : flex;
+    background-color: rgb(69 149 168 / 78%);
+    border-radius   : 15px;
+    align-items     : center;
+    width           : 5.5vw;
+    justify-content : center;
+}
+
+.mark span {
+    font-size  : 1.25vw;
+    font-weight: 600;
+    transition : .3s;
+}
+
+.reward .text {
+    font-size  : 1.25vw;
+    font-weight: 600;
+    color      : black;
+}
+
+.reward:hover .mark span {
+    transform: scale(1.2);
+}
+
+.price {
+    margin-top: .75vh;
+    display   : flex;
+    gap       : 1rem;
+}
+
+.price img {
+    width : 2vw;
+    height: 2vw;
+    margin: unset;
+
+}
+
+.price span {
+    font-weight: 600;
+    font-size  : 1.25vw;
+    align-items: center;
+    transition : .3s;
+
+}
+
+.price:hover span {
+    transform: scale(1.2);
+}
+
+.detail {
+    margin-top: 10px;
+}
+
+.detail button {
+    width           : 100%;
+    height          : 5vh;
+    font-size       : 1.5vw;
+    font-weight     : 600;
+    background-color: rgb(3, 60, 45);
+    border-radius   : 25px;
+    color           : white;
+    transition      : .3s;
+    border          : none;
+}
+
+.detail button:hover {
+    background-color: aliceblue;
+    color           : rgb(3, 60, 45);
+}
+
+
+
+
+@media screen and (min-width:320px) and (max-width:480px) {
+    .tourBox {
+        height: 45vw;
+        width : 33vw;
+
+    }
+
+    .tourBox .image {
+        height: 30vw;
+        width : 33vw;
+    }
+
+    .content {
+        width : 27vw;
+        height: 17.5vw;
+    }
+
+    .title {
+        height: 1vh;
+    }
+
+
+    .detail button {
+        position: relative;
+        left    : 65px;
+        top     : -45px;
+        width   : 10vw;
+        height  : 4vw;
+    }
+
+    .tourTitle span {
+        border-bottom: dashed 1px rgb(225, 233, 0);
+        margin       : -5px 0 0 -5px;
+    }
+
+    .tourDes {
+        margin-left: 8px;
+    }
+
+    .tourTitle {
+        margin-left: -7.5vw;
+    }
+
+}
+
+@media screen and (min-width:480px) and (max-width:768px) {
+    .detail button {
+        position: unset;
+        width: 12vw;
+        height: 3vh;
+    }
+
+    .tourBox {
+        height: 39vw;
+        width : 33vw;
+
+    }
+
+    .title {
+        height: 1.5vh;
+    }
+
+    .tourBox .image {
+        height: 24vw;
+        width : 29vw;
+    }
+
+    .content {
+        width: 29vw;
+        height: 16.5vw;
+    }
+
+    .detail {
+        text-align: center;
+        margin-top: -3px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:960px) {
+    .detail button {
+        position: unset;
+        width: 14vw;
+        height: 3vh;    
+    }
+
+    .tourBox {
+        height: 35vw;
+        width : 33vw;
+
+    }
+
+    .title {
+        height: 2vh;
+    }
+
+    .tourBox .image {
+        height: 19vw;
+        width : 29vw;
+    }
+
+    .content {
+        width: 29vw;
+        height: 16.5vw;
+    }
+
+    .detail {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:960px) and (max-width:1024px) {
+    .detail button {
+        position: unset;
+    }
+
+    .tourBox {
+        height: 40vw;
+        width : 33vw;
+
+    }
+
+    .title {
+        height: 5vh;
+    }
+
+    .tourBox .image {
+        height: 19vw;
+        width : 29vw;
+    }
+
+    .content {
+        width : 27vw;
+        height: 19.5vw;
+    }
+
+    .detail {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1440px) {
+    .content {
+        height: 19vw;
+    }
+
+    .tourBox {
+        height: 34vw;
+    }
+
+    .detail button {
+        height: 3vw;
+    }
+}

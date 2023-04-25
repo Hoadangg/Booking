@@ -1,0 +1,116 @@
+.mapouter {
+    position  : relative;
+    text-align: right;
+    width     : 100%;
+    height    : 100px;
+}
+
+.gmap_canvas {
+    overflow     : hidden;
+    background   : none !important;
+    margin-top   : 10px;
+    border-radius: 5px;
+    width        : 15vw;
+    height       : 160px;
+    position     : relative;
+    margin       : 10px 20px;
+}
+
+.gmap_iframe {
+    height: 305px !important;
+}
+
+.mapModal {
+
+    position        : absolute;
+    inset           : 0;
+    background-image: url(https://t-cf.bstatic.com/psb/capla/static/media/map-entry-point.6b01012a.png);
+}
+
+.mapModalIcon {
+    display        : flex;
+    justify-content: center;
+    padding-top    : 30px;
+}
+
+.mapModalIcon>* {
+    transform: scale(1.3);
+}
+
+.d0438f59a5 {
+    height        : 34px;
+    pointer-events: none;
+    width         : 28px;
+}
+
+.e75db87696 {
+    height        : 34px;
+    pointer-events: none;
+    width         : 28px;
+    z-index       : 2;
+}
+
+.ae0a00836a {
+    fill        : #000;
+    fill-opacity: .24;
+    height      : 4px;
+    left        : 8px;
+    position    : absolute;
+    top         : 30px;
+    width       : 12px;
+    z-index     : 1;
+}
+
+.b56c581c9f {
+    background-color: white;
+    border          : 1px solid white;
+    border-radius   : 50%;
+    height          : 8px;
+    left            : 9px;
+    pointer-events  : none;
+    position        : absolute;
+    top             : 9px;
+    width           : 8px;
+    z-index         : 2;
+}
+
+.b2873bf9cb {
+    fill          : #0071c2;
+    stroke        : #fff;
+    stroke-width  : 1px;
+    pointer-events: none;
+}
+
+.modalMapBtn {
+    position        : absolute;
+    bottom          : 20px;
+    left            : 50%;
+    transform       : translateX(-50%);
+    font-weight     : 650;
+    padding         : 10px;
+    background-color: #0071c2;
+    border-radius   : 3px;
+    border          : none;
+    color           : #fff;
+    cursor          : pointer;
+}
+
+@media screen and (min-width:320px) and (max-width:480px) {
+    .gmap_canvas {
+        width: 90px;
+       
+    }
+}
+
+@media screen and (min-width:480px) and (max-width:768px) {
+    .gmap_canvas {
+        width: 130px;
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .gmap_canvas {
+        width: 150px;
+    }
+}

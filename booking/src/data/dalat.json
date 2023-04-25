@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Khanh Uyen 3 Hotel",
+        "type": "hotel",
+        "city": "dalat",
+        "address": "Hoan Kiem, dalat",
+        "distance": 300,
+        "title": "Stay in the heart of dalat",
+        "photos": [
+          "https://t-cf.bstatic.com/xdata/images/hotel/square600/228292901.webp?k=64088850d761a2480db19a7538c1643b64116b504b8006a112111e8ef90b74b2&o=&s=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295465458.jpg?k=300d4230b34b272f778e54d7bf60b60867cb87f8c4b262e8fe3cd526b8c4e0f2&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295465461.jpg?k=bc727103fb8b4e4e2dd3c3327d3a83ce4ed93ba2ebaea78c1a8ecdcbdc9571f5&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292171.jpg?k=8929fd4e0fdc1214dbf0e3cccc35b0960bc15f3b969054d645b5e87b26bacba2&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292184.jpg?k=ac3031d3e1e21c338af88ae2cf07ae8a7e1edbb100ae23c38364913ec359af75&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292104.jpg?k=36a96d5c93e317b0efce99c0a216b597716c2bbd41d1c0252657a004915106d0&o=&hp=1 ",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292061.jpg?k=cd151c125c35a983954c26f470f843e08f2d5b4a0e1189dd4620c063b2664433&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292068.jpg?k=f718a9857ff1e0add5ea18f7126969e58e110aa6e8691c56687ea93bfc367af8&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292087.jpg?k=973dbf227aef4450714be2fad7cd45d98f8119e635dc429d1cef4f8abb2beaaf&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295292074.jpg?k=0e317e7795a94048f25c3a19dbc67cc195c895be1eb7f4f49a58ecdb4986b991&o=&hp=1"
+        ],
+        "desc": "Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests.",
+        "cheapestPrice": 300
+      },
+     {
+        "name": "The White Hotel DaLat",
+        "type": "apartment",
+        "city": "dalat",
+        "address": "Hoan Kiem, dalat",
+        "distance": 500,
+        "title": "Stay in the heart of dalat",
+        "photos": [
+          "https://t-cf.bstatic.com/xdata/images/hotel/square600/400514886.webp?k=eaf59611d41fdaf7c39c85c8eed9578bbbde5f0cfbb89e5fa15775a4dbeeaac2&o=&s=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400506602.jpg?k=23f7c4a77d519612b5aa16181c43debeaaffa025997c54b70b0c1254291c588a&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400514732.jpg?k=786ec7d1433f5b0de157d91191823b0b9344666490fd3d5ffeb0d735055a6109&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400506679.jpg?k=fdc8fcb5d70670cba91003a9eceb4660f36de32c5df574baf782c986ffcb2dac&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400000532.jpg?k=b97e60d85be587c812b1d07b54004a86dd4542d062b659767ee70ce90c1dba3e&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400000797.jpg?k=11c29f329318b93e379b8d531e27ac76964c0a8e583fdd8d7e92e92fb9bce9fb&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400008476.jpg?k=142f76466dc318dbdc1a61f24cd44e6a3f0c9fd54657dd398c36f5e8aa3eeb2f&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400506866.jpg?k=ee0be8177bb4b0e9b7283a474e467c6bb043d8c345b4bf7a5a6cca9a936c2f91&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400512449.jpg?k=6e5315bda3aa2911f4464c6d59b499d3902cebfac0122346ac80160d6f572519&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400506723.jpg?k=c03a352b6b61bc8397c3e90a2c5f455225b9e8e540de1cb54dab144feb073305&o=&hp=1"
+        ],
+        "desc": "Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests.",
+        "cheapestPrice": 200
+      },
+      {
+        "name": "Jerry House Đà Lạt",
+        "type": "apartment",
+        "city": "dalat",
+        "address": "Hoan Kiem, dalat",
+        "distance": 650,
+        "title": "Stay in the heart of dalat",
+        "photos": [
+          "https://t-cf.bstatic.com/xdata/images/hotel/square600/364456445.webp?k=11f0552ba2745c484229d13baec289651e440bb090d4efdf4d1cd4057c24d071&o=&s=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/364457141.jpg?k=b407e9d1efb6065fd3a3798264eb3f723ec049d6adc00d7f80417f99179677e0&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/386555651.jpg?k=6a4c1c8d4a9cb6b91351a3478a55f724f2b096441d9f23db7a1cd6f55c52877a&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/364457139.jpg?k=ea16b2443280e0d055a76693f7e4b33544c6d254e80a8568e59b30bd5d6bcda4&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/386555651.jpg?k=6a4c1c8d4a9cb6b91351a3478a55f724f2b096441d9f23db7a1cd6f55c52877a&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/364461088.jpg?k=0aa73b8dcb39a3828f24a79b655ecd6f8350dd0706ef1e8586d012c977b5d366&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/364461087.jpg?k=6028e2855f0685c6476913ddd74663746b07debb2aabe4a0c8e4814d0eb182df&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/375103917.jpg?k=13bc14288b777f7dce40a353197253a08e61f3a5cdaf2a68453e65f8e351eeb7&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/364457133.jpg?k=2347f1cac159014e0bb433973241cf70cb5bf89d940ccad56dde080359d4f96a&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/366502841.jpg?k=6752f34eb3e27893c5e1ce90acaa4e4afd7165b44225ae6ae24612c2a4f621a5&o=&hp=1"
+        ],
+        "desc": "Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests.",
+        "cheapestPrice": 300
+      },
+    
+      {
+        "name": "Wasabi House - Phương Anh Homestay",
+        "type": "apartment",
+        "city": "dalat",
+        "address": "Xuan Huong Lake, dalat",
+        "distance": 500,
+        "title": "Stay in the heart of dalat",
+        "photos": [
+          "https://t-cf.bstatic.com/xdata/images/hotel/square600/228292901.webp?k=64088850d761a2480db19a7538c1643b64116b504b8006a112111e8ef90b74b2&o=&s=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/385413167.jpg?k=4b1d9970f62e797e75a6d3502ed45146b7b16f74e4e45f1c6a58cc48b613a4c1&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400984310.jpg?k=580e6a3d9644413809b21900fcc98a43fb5ba34017b4a95fbe3073d2143a7148&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400984264.jpg?k=cb085a06434b798bc67191a792b05d90de66b64dd33e209e65ff266a8817cbd9&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400984264.jpg?k=cb085a06434b798bc67191a792b05d90de66b64dd33e209e65ff266a8817cbd9&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/385761486.jpg?k=48160c86c933e4d30c31fc5f3ad4c73606d753e6bace9bdf3b3b1525a5252d23&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/385761481.jpg?k=7daf1d832162e45e02c7d9539e0835565aa8e11a4d1de671fbaaf7f5d5f6e700&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/375060005.jpg?k=d1d1cf4b3dbc93c8c2a7671ed04144b12ca040c424b6fe5bdeb9cd4784880ab0&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/385413623.jpg?k=23abfb9d3ca6b6f4f4e721ce60656fb425d22cada24f91876c5cf16b19d05f62&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/375786427.jpg?k=4a1755b4aefcbe5149f6efca1c33a8996a7f1836ab663dc638c926bf8e0466f0&o=&hp=1"
+        ],
+        "desc": "Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests.",
+        "cheapestPrice": 100
+      },
+      {
+        
+        "name": "Mercure Da Lat Resort",
+        "type": "resort",
+        "city": "dalat",
+        "address": "Xuan Huong Lake, dalat",
+        "distance": 300,
+        "title": "Stay in the heart of dalat",
+        "photos": [
+          "https://t-cf.bstatic.com/xdata/images/hotel/square600/356192153.webp?k=d699c4248fcc17476bf2060ad1fbb9b620f900aaa4827a46a5e20f0fde5af8ab&o=&s=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/358549849.jpg?k=0e8a7b2b10d2fe9b6eb8caa1fc0a43f624e2c276cfb5b5c20c16229679c31955&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356193029.jpg?k=c8ed9af5e409c10603aa48876d295019c32504cb877f223e652057831f2e51f4&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356193326.jpg?k=681e8491207529474ecd4e7a2b8047daca04aeb1336ba8a5bbb4bb7088ba992f&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356193458.jpg?k=3957b030384b3fcad64547fcf5c3c9f51ea91917127649acebf71bac95e858ee&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356193578.jpg?k=3c14ea41cc0deb865ae5f728d391f366eb06e522e9e6fadc8f0b484ac11358a9&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356193832.jpg?k=4f702292d1abc54ba14b1990b43fbecbb419f203454cb2b53c981c4e7aff09eb&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356227532.jpg?k=1dd0dd25b361e9572c3107ec8581c9a704c16f2ce7668cdd8fa7929229449e04&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356227577.jpg?k=04b57f3a3ad32cabf764094bb270c38c5a285dd3cd96e88651a6810cc8ed14ae&o=&hp=1",
+          "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/356445510.jpg?k=a91607d4588908cb79ada9a1dc4c77cf7f205d51aab931fe1042161c395931a7&o=&hp=1"
+        ],
+        "desc": "Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests.",
+        "cheapestPrice": 400
+      }
+    ]

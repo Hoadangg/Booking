@@ -1,0 +1,10 @@
+.App-sl{
+width: 30vw;
+height: 20vw;
+}
+
+.image-hotel{
+    width: 44vw;
+    height: 22vw;
+    object-fit: cover;
+}

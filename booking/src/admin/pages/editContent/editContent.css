@@ -1,0 +1,12 @@
+.EditContent{
+    display:  flex;
+    flex-direction: column;
+    gap: 10px;
+    /* align-items: center; */
+    /* width: 1000px; */
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.EditContent_title{
+    text-align: center;
+}

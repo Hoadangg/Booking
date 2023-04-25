@@ -1,0 +1,360 @@
+.listContainer {
+  display        : flex;
+  justify-content: center;
+  margin-top     : 20px;
+
+}
+
+.listWrapper {
+  width  : 100%;
+  display: flex;
+  gap    : 8vw;
+}
+
+.listSearchContainer {
+  width   : 265px;
+  position: sticky;
+  top     : 10px;
+  height  : max-content;
+}
+.navList{
+  background-color: #0071c2;
+}
+.listSearch {
+  flex            : 1;
+  background-color: #febb02;
+  padding         : 10px;
+  border-radius   : 10px;
+  height          : max-content;
+}
+
+.lsTitle {
+  font-size    : 20px;
+  color        : #555;
+  margin-bottom: 10px;
+}
+
+.lsItem {
+  display       : flex;
+  flex-direction: column;
+  gap           : 5px;
+  margin-bottom : 10px;
+}
+
+.lsItem>label {
+  font-size: 12px;
+}
+
+.lsItem>input {
+  height : 30px;
+  border : none;
+  padding: 5px;
+  color: black;
+  font-weight: 400;
+}
+.lsItem>input::placeholder{
+  color: black;
+  font-weight: 400;
+}
+
+.lsItem>span {
+  height          : 30px;
+  font-size       : 1vw;
+  padding         : 5px;
+  background-color: white;
+  display         : flex;
+  align-items     : center;
+  cursor          : pointer;
+}
+
+.lsOptions {
+  padding: 10px;
+}
+
+.lsOptionItem {
+  display        : flex;
+  margin-bottom  : 10px;
+  justify-content: space-between;
+  color          : #555;
+  font-size      : 12px;
+  align-items    : center;
+  gap            : 5px;
+}
+
+.lsOptionInput {
+  width: 5vw;
+}
+
+.listSearch>button {
+  padding         : 10px;
+  background-color: #0071c2;
+  color           : white;
+  border          : none;
+  width           : 100%;
+  font-weight     : 500;
+  cursor          : pointer;
+}
+
+.listResult {
+  flex: 3;
+}
+
+.spacer {
+  margin-top: 150px;
+}
+
+.pagination {
+  list-style     : none;
+  display        : flex;
+  justify-content: center;
+  align-items    : center;
+  margin-bottom  : 5rem;
+  font-size      : 2.2vw;
+  gap            : 5px;
+}
+
+.pagination .page-num {
+  padding      : 8px 15px;
+  cursor       : pointer;
+  border-radius: 3px;
+  font-weight  : 400;
+}
+
+.pagination .page-num:hover {
+  background-color: #5ab1bb;
+  color           : #fff;
+}
+
+.pagination .active {
+  background-color: #5ab1bb;
+}
+
+.rdrMonth {
+  width: inherit;
+}
+
+.rdrNextPrevButton {
+  margin: 0px;
+}
+
+.list_room-type {
+  display       : flex;
+  flex-direction: column;
+  gap           : 5px;
+  margin-bottom : 10px;
+  cursor        : pointer;
+}
+
+.list-page {
+  overflow-x: hidden;
+}
+
+.spacer {
+  width: 100vw;
+}
+
+.listSearchContainer {
+  width        : 10.5vw;
+  padding-right: 7vw;
+}
+
+.listSearch {
+  display       : flex;
+  flex-direction: column;
+  width         : 15vw;
+  margin-left   : 1vw;
+
+}
+.list_room-type label{
+  font-size: 1vw !important;
+  font-weight: 500;
+}
+.listResult {
+  width      : 80vw;
+  margin-left: 10px;
+}
+input{
+  
+}
+.listResult h2 {
+  font-size: 3vw;
+}
+
+.listImages {
+  width: 75vw;
+
+}
+
+.lsTitle {
+  font-size: 2vw;
+}
+
+.lsItem>label {
+  font-size: 1vw;
+  font-weight: 500;
+}
+
+@media only screen and (min-device-width:320px)and (max-device-width:480px) {
+  .listSearch {
+    width: 90px;
+
+  }
+
+  .lsOptionInput {
+    width: 2vw;
+  }
+
+  .lsOptionText {
+    font-size: 2vw;
+  }
+
+  .listImages {
+    width      : 60vw;
+    margin-left: 35px;
+    margin-top : -17px;
+  }
+
+  .listResult h2 {
+    margin-left: 35px;
+  }
+
+  .lsItem>input {
+    height   : 9px;
+    font-size: 9px;
+  }
+
+  .lsItem>span {
+    height   : 9px;
+    font-size: 6px;
+  }
+
+  .list_room-type label {
+    font-size: 10px !important;
+  }
+
+  .list_room-type select {
+    font-size: 9px;
+  }
+
+  label {
+    font-size: 10px !important;
+  }
+
+  .lsOptions {
+    padding: 0 5px;
+    height : 50px;
+
+  }
+
+  .listSearch>button {
+    font-size: 10px;
+    padding  : 5px;
+
+  }
+
+  .lsTitle {
+    font-size    : 3vw;
+    margin-bottom: 0px;
+  }
+
+  .lsItem {
+    margin-bottom: 2px;
+    gap          : 0;
+  }
+
+  .list_room-type {
+    margin-bottom: 2px;
+    gap          : 0;
+  }
+}
+
+@media only screen and (min-device-width:480px) and (max-device-width:768px) {
+  .listSearch {
+    width: 135px;
+
+  }
+
+  .lsOptionInput {
+    width: 2vw;
+  }
+
+  .lsOptionText {
+    font-size: 2vw;
+  }
+
+  .listImages {
+    width      : 60vw;
+    margin-left: 35px;
+    margin-top : -17px;
+  }
+
+  .listResult h2 {
+    margin-left: 35px;
+  }
+
+  .lsItem>input {
+    height   : 9px;
+    font-size: 9px;
+  }
+
+  .lsItem>span {
+    height   : 9px;
+    font-size: 8px;
+  }
+
+  .list_room-type label {
+    font-size: 10px !important;
+  }
+
+  .list_room-type select {
+    font-size: 9px;
+  }
+
+  label {
+    font-size: 10px !important;
+  }
+
+  .lsOptions {
+    padding: 0 5px;
+    height : 50px;
+
+  }
+
+  .listSearch>button {
+    font-size: 10px;
+    padding  : 5px;
+
+  }
+
+  .lsTitle {
+    font-size    : 3vw;
+    margin-bottom: 0px;
+  }
+
+  .lsItem {
+    margin-bottom: 2px;
+    gap          : 0;
+  }
+
+  .list_room-type {
+    margin-bottom: 2px;
+    gap          : 0;
+  }
+
+  
+
+}
+
+@media only screen and (min-device-width:1024px)and (max-device-width:1440px) {
+  .listSearch {
+    width: 15vw;
+  }
+}
+
+@media only screen and (min-device-width:1440px)and (max-device-width:1920px) {
+  .listSearch {}
+}
+
+.search-icon {
+  width: 3vw;
+}

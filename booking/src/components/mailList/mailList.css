@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sacramento&family=Tilt+Neon&display=swap');
+
+.mail {
+  width           : 100vw;
+  background-color: #003580;
+  color           : white;
+  display         : flex;
+  flex-direction  : column;
+  align-items     : center;
+  gap             : 20px;
+  padding         : 50px;
+}
+
+.mailInputContainer>input {
+  width        : 300px;
+  height       : 30px;
+  padding      : 10px;
+  border       : none;
+  margin-right : 10px;
+  border-radius: 5px;
+}
+.mailInputContainer>input:focus{
+  background-color: #c4be01;
+  font-size: 20px;
+}
+.mailTitle{
+  font-family  : 'Righteous', cursive;
+  color: #fef610;
+  cursor: pointer;
+  transition: .3s
+  ;
+
+}
+.mailTitle:hover{
+  transform: translateY(5px);
+}
+.mailInputContainer>button {
+  height          : 50px;
+  background-color: #0071c2;
+  color           : white;
+  font-weight     : 500;
+  border          : none;
+  border-radius   : 5px;
+  cursor          : pointer;
+  display: flex;
+  align-items: center;
+}
+.mailInputContainer{
+  display: flex;
+}
+.mailInputContainer>button img {
+  width: 2vw;
+  transition: .3s
+  ;
+
+}
+
+.mailInputContainer>button:hover{
+  background-color: rgb(253, 253, 253);
+  color: #003580;
+  
+}
+.mailInputContainer>button:hover img{
+  transform: scale(1.2);
+}
+
+@media only screen and (min-device-width:320px)and (max-device-width:480px) {
+  .mail {
+    width     : 100vw;
+    text-align: center;
+    height: 30vw;
+    padding: 10px;
+  }
+
+  .mail .mailTitle {
+    font-size: 5vw;
+  }
+
+  .mailDesc {
+    font-size: 13px;
+  }
+
+  .mailInputContainer>input {
+    width: 55vw;
+    height: 5vw;
+  }
+  .mailInputContainer>button img{
+    width: 5vw;
+  }
+  .mailInputContainer>button {
+    height: 10vw;
+  }
+  .mailInputContainer>button img{
+    width: 5vw;
+  }
+}
+
+@media only screen and (min-device-width:480px)and (max-device-width:960px) {
+  .mailInputContainer>button img{
+    width: 5vw;
+  }
+}
+@media only screen and (min-device-width:960px)and (max-device-width:1024px) {
+  .mailInputContainer>button img{
+    width: 4vw;
+  }
+}
+
+@media only screen and (min-device-width:1024px)and (max-device-width:140px) {
+  .mailInputContainer>button img{
+    width: 3vw;
+  }
+}

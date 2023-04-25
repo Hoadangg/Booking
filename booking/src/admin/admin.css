@@ -1,0 +1,22 @@
+.admin_content-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+
+.admin_content{
+    display: flex;
+    width: 100%;
+    max-width: 1024px;
+    
+}
+.admin_content-text{
+    text-align: center;
+}
+.admin{
+    height: 100vh;
+    overflow: hidden;
+     background-image: url("https://www.ideas.org.au/images/resources/blog/Aircraft.png");
+    background-repeat: no-repeat;
+    background-size:cover
+}

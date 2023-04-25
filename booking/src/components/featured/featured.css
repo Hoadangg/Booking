@@ -1,0 +1,130 @@
+/* .{
+  width: 100%;
+  max-width: 1024px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  z-index: 1;
+} */
+
+.featured-1 {
+  width : 70%;
+  margin: -20px auto;
+
+}
+
+.slick-slide>div {
+  margin: 0 10px;
+}
+
+.slick-list {
+  margin: 0 -10px;
+}
+
+.card-1 {
+  border       : 1px solid #fff;
+  background   : black;
+  border-radius: 8px;
+  overflow     : hidden;
+
+  height: 300px;
+  color : #fff;
+  cursor: pointer;
+}
+
+.card-top-1 h1 {
+  font-size: 0.9rem;
+  margin   : 20px;
+}
+
+/* p{
+  
+  background-color: #0000005c;
+  height: 45px;
+  color: #fff;
+}  */
+.card-top-1>img {
+  width     : 100%;
+  height    : 200px;
+  object-fit: cover;
+  background: black;
+}
+
+.card-bottom-1 {
+  margin: 10px 20px;
+}
+
+.category-1 {
+  position: relative;
+}
+
+.category-1::before {
+  content   : '';
+  background: rgb(255, 61, 61);
+  position  : absolute;
+  top       : calc(100% + 10px);
+  left      : 0;
+  right     : 0;
+  height    : 2px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color    : black;
+  font-size: 44px;
+  position : absolute;
+}
+
+.slick-prev:before {
+
+  top : -28px;
+  left: -1px;
+}
+
+.slick-next:before {
+
+  top  : -28px;
+  right: -23px;
+}
+
+.slick-prev,
+.slick-next {
+  position: absolute;
+  z-index : 10000;
+}
+
+.slick-prev {
+  left: -20px;
+
+}
+
+.slick-next {
+  right: 2px;
+
+}
+
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before {
+  opacity: 0;
+}
+
+@media screen and (max-width:480px) {
+  .card-1 {
+    width: 35vw !important;
+    height: 50vw;
+  }
+
+  .card-top-1>img {
+    width : 35vw;
+    height: 35vw;
+    object-fit: cover;
+  }
+  .card-top-1 h1{
+    font-size: 3vw;
+    margin: 2px 5px;
+  }
+  .card-bottom-1{
+    font-size: 3vw;
+  }
+
+}

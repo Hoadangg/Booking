@@ -1,0 +1,69 @@
+.regForm{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 100px;
+
+}
+.regForm_input{
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+ margin-top: 50px;
+}
+.regEmail{}
+.emailInput{
+    padding: 8px;
+    border-radius: 4px;
+    outline-color: rgb(74, 74, 239);
+    border: 1px solid #333;
+}
+.regBtn{
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    background-color:#006ce4 ;
+    border: none;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.1em;
+    cursor: pointer;
+
+}
+.regBtn:hover{
+    opacity: 0.9;
+}
+.social-divider-line {
+    width: 100%;
+}
+.social-divider {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: 16px 0;
+}
+.social {
+    background: #e7e7e7;
+    border: 0;
+    height: 1px;
+    margin: 0;
+}
+.social-divider-text {
+    margin: 0 8px 2px;
+    white-space: nowrap;
+}
+.social_link{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.gg_link, .phone_link{
+    width: 72px;
+    height: 72px;
+    border: 1px solid rgb(162, 159, 159);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+}

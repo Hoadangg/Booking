@@ -1,0 +1,39 @@
+.App_paypal {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  /* .header {
+    font-size: 30px;
+  } */
+  .skills {
+    margin-top: 50px;
+    width: 500px;
+    height: 700px;
+    border: 1px solid black;
+  }
+  
+  .aboutMe {
+    margin-top: 50px;
+  }
+  
+  .projects {
+    color: red;
+  }
+  .App_paypal_button{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(244, 243, 243);
+    font-weight: 600;
+    background-color: #078ae8;
+    left: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: unset;
+  }

@@ -1,0 +1,129 @@
+[
+
+    {
+        "name":"HaNoi Flora Hotel",
+        "type":"hotel",
+        "city":"hanoi",
+        "address":"Hoan Kiem, Hanoi",
+        "distance":500,
+        "title":"Stay in the heart of Hanoi",
+        "photos":[
+     "https://t-cf.bstatic.com/xdata/images/hotel/square200/399484728.webp?k=15d22934c08d75259bb565516669f5bc4385823a1d8a7352bc4d3a75a2a0cce5&o=&s=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399484728.jpg?k=8e617c05520b24ca59c78524dc564ac3657512067cf894495ed6e8fa077f3b60&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400532345.jpg?k=c6a56079788f88c2a742ece365e60c13110efb71713157f47912646962af1a04&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399484726.jpg?k=3dfb935ed290426334dc8a1ab92a48fda7823573ebfec0379e13d6a11f621fea&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399484545.jpg?k=6abb90f6663e1d8d076079886d91a5fb2d0b4a0d8c2075a07f2ffeb7747a087a&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/398887751.jpg?k=ced175ddb1cee842c79b2e2dd63efb3bf0b0a0abcca36f537cf8a695592fa6ba&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399484547.jpg?k=fd5466918e44cb468a288f21b3734b83ae50aed752da104dee3467231cba8947&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399469029.jpg?k=b44e105a7a2b1173975328efca9422c4dc2e3b542c3f8074ecd80230510e1cf7&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/399484544.jpg?k=e4de43a4898ba003f52ac09f82ab3a8a8f4a4827d13c20e3e79da6d7d7415b45&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/400528089.jpg?k=6b4adf472529b75d28f327314e7b76be3ac8aa9e2269886766ab99cdd5944ebb&o=&hp=1"
+     ],
+     "desc":"Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests."
+     ,
+        "cheapestPrice":100
+       },
+     
+       {
+        "name":"Hanoi Paradise Center Hotel & Spa",
+        "type":"hotel",
+        "city":"hanoi",
+        "address":"Hoan Kiem, Hanoi",
+        "distance":400,
+        "title":"Stay in the heart of Hanoi",
+        "photos":[
+     "https://t-cf.bstatic.com/xdata/images/hotel/square600/219028902.webp?k=ae451ce008602cb5b8a888e6c700f49003b66baf8a94b76396ecaa2d4465eb37&o=&s=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/219028902.jpg?k=28c35961b941d825304d44408f7d3febc5cef6b07b2fa02bb76ab344f3c770f9&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1280x900/346327005.jpg?k=c635684a17d203e74e883b2aa5dc2d10489213e5ebe3db7e8f0e19f521e3f091&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/346326994.jpg?k=463f99579c0a4c1b90443594d930b3a9d8c8d90f75f52ba3fff8bd39ef935527&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/346327017.jpg?k=82e60dc25fd3fb3f21045bc238b0461b6085d58666d37020c9dc9dcabd029fc1&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/346327028.jpg?k=083b8d316e4e1eb267cb86967b2fc678fa834f0e27b36fc18360e8a7b83422ea&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/346327001.jpg?k=b7d3abe3211be5fb92691a73b2a46dab4bfa2a945104178052cd1b5c5ccc1eeb&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/219028904.jpg?k=7b712d36525a5605ff17671bfdca578b4eba8c97a2c91736ba35b92784e64f95&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/219028883.jpg?k=e90020f1bbecac568f1dd2414887ea37f3102f075546f021fa41142da43bc9e6&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/346326991.jpg?k=72e7c2add627cb0e5a150b3bc60c164e615613804bb5943a89abe0f8b370c626&o=&hp=1"
+     ],
+     "desc":"Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests."
+     ,
+        "cheapestPrice":100
+       },
+    
+       {
+        "name":"The Hanoi Club Hotel & Residences",
+        "type":"hotel",
+        "city":"hanoi",
+        "address":"Tay Ho, Hanoi",
+        "distance":800,
+        "title":"Stay in the heart of Hanoi",
+        "photos":[
+            
+     "https://t-cf.bstatic.com/xdata/images/hotel/square600/11553732.webp?k=9e161c132231f21dc94cee9140e2316635cb002c9278d2649fa1fe3070a74175&o=&s=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max500/124867743.jpg?k=b92e6b4be036f2c25449925bbdcac4140b44e360f61f5475f939616c81769536&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max500/161964169.jpg?k=0cec0a35992efc67c3d6d02e792751da9c3d1f01feabb6b55d4d68d60dda1fae&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/167048827.jpg?k=1c72c91d4d1af9a53ca3d4a6d9a6e6d0d290e5b7e823095180151ab486a0d85d&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/167048660.jpg?k=d47ceaa7296012f09e4cd71b3a23c7c505793be16bfcecdce539e2ed0f114417&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/167049000.jpg?k=f343c1f931ce79945b1c0e24cd4dddf71eb3fd95ca26497169f15f2d7bf98312&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258108028.jpg?k=bd01a8d58b0cbe3102d2788d82c1841a2bd44bffb22b760bc0232f1b95a3bcfc&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258107490.jpg?k=679896bb57b664031d7d118bf9316e9fc607a8b0912a48c3f981e1bdb20d97d7&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258107225.jpg?k=ee18cefab9dd5f6e2b78dc9afc640b3a8582f61c87e7195254acdc9c0d9f9afb&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/167049030.jpg?k=01267d2bf2c92984a81940910d838af736a02c2734b6be15231affb53fc72787&o=&hp=1"
+     ],
+     "desc":"Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests."
+     ,
+        "cheapestPrice":100
+       },
+    
+    
+    
+       {
+        "name":"",
+        "type":"resort",
+        "city":"hanoi",
+        "address":"Hoan Kiem, Hanoi",
+        "distance":600,
+        "title":"Stay in the heart of Hanoi",
+        "photos":[
+     "https://t-cf.bstatic.com/xdata/images/hotel/square600/387418950.webp?k=577353fb35836e5052c1dae7fe7b03aa7e628558590649ef982c2a0eed7c75f2&o=&s=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/387418574.jpg?k=6642f49a6937de8e433eb53914a3a0d63e04c42151b9dc4bf82f9ad33bd54649&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/209023208.jpg?k=e26569c8b311da1b5080c3bcac0e0847e184ce1126aa1ed6c4664ac4e636fa53&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/209023551.jpg?k=d7d769949ae6f41d1673c8f1859429dcd461e260b4791c3ad13de836733c2139&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/387418269.jpg?k=e59462d665a7d5bf7f7faedddc2a27e419eedcbe76a60be71588a2ffb1c98b2f&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/21377108.jpg?k=8b8e7144b1d9308371b4a6a0dd128f2b585976fc50d7d0f1da3043d7c91e627c&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/387397953.jpg?k=37b6c43c54e2667747d8d5dff6cb1552c873b859393361700a203db6ff01efdb&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/387397724.jpg?k=37795a440b68cf9d18554ab9f3f6d29af9ccdd998848470a7cc8612d911c228a&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/387397724.jpg?k=37795a440b68cf9d18554ab9f3f6d29af9ccdd998848470a7cc8612d911c228a&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/209023569.jpg?k=4816d4e85e56afe39e28bf1a0d60c6b2b909dba9e7eecd1899916cd0323105a6&o=&hp=1"
+    
+    
+     ],
+     "desc":"Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests."
+     ,
+        "cheapestPrice":100
+       },
+       {
+        "name":"Grande Collection Hotel & Spa",
+        "type":"apartment",
+        "city":"hanoi",
+        "address":"Hoan Kiem, Hanoi",
+        "distance":300,
+        "title":"Stay in the heart of Hanoi",
+        "photos":[
+     "https://t-cf.bstatic.com/xdata/images/hotel/square600/228292901.webp?k=64088850d761a2480db19a7538c1643b64116b504b8006a112111e8ef90b74b2&o=&s=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/228531704.jpg?k=dd26e1b0748fed83fb92af83db816318e1dddfc096f70614565b0f7cbd3d5e32&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/282534531.jpg?k=66f8b0060aa4a7ff2d4098132d6a721c39be06e6ddefe7ad8d874dca2dc4ea4d&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/228292897.jpg?k=ff12e32ec4567f5ebe08975f9dd99a29c2cf0cbc1b0e915b88e3752fc27d61fd&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/403516582.jpg?k=263e650237642d4ce513ad859e5945f66490ec206346ceb9fbbdb64295b588be&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/228531755.jpg?k=6b3d5338a2cd9eb7f865886dcf4f397c176d877f592e794df88e2754dc208c61&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/403516553.jpg?k=acdef30ec45584ba79bd23c56612ce357f42bd903b332dfcb548283384547cc3&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/228531751.jpg?k=47d84cb881e1598ad795c260f36b8c8006c448ec68212d24db9421a38def12ba&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/227878911.jpg?k=f37572bff7c6a45178bb24358c6c86f3246edfd4f0905524fe95ac1d592ff00f&o=&hp=1",
+     "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/227878902.jpg?k=f8a9b06985b4d0c897b17f9d20ea48ff83609f1ddd80614c9534dc64a6d5f9fc&o=&hp=1"
+    
+    
+     ],
+     "desc":"Ideally situated in the Hoan Kiem district of Hanoi, HANOI FLORA HOTEL is situated 200 m from Thang Long Water Puppet Theater, 1 km from Hanoi Opera House and less than 1 km from Trang Tien Plaza. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The accommodation features a shared lounge, a concierge service and currency exchange for guests."
+     ,
+        "cheapestPrice":100
+       }
+    
+    ]

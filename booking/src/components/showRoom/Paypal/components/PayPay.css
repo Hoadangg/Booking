@@ -1,0 +1,24 @@
+.paypal-contaiter{
+    height: 180px;
+    overflow: hidden;
+   
+    background-color:#fff;
+   
+}
+.paypal-item{
+    margin-top: 30px;
+    height: 180px;
+   
+}
+.paypal-title{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(152, 149, 149);
+    font-weight: 600;
+    background-color: #0763a0;
+    left: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: unset;
+}
